@@ -1,7 +1,11 @@
 #!/usr/bin/python3
-"""this modle definse a squar clas"""
+"""
+Defines an empty class.
+"""
 
 
 class Square:
-    """an empy class that defines a squar""" 
+    """
+    Representing  an empty square.
+    """
     pass
