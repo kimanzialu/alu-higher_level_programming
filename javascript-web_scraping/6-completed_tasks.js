@@ -18,7 +18,7 @@ const numberOfCompletedTasks = () => {
         completed[item.userId]++;
       }
     });
-    
+    /* console.log(userIdList); */
     console.log(completed);
   });
 };
